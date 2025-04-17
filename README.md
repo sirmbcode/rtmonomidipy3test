@@ -1,5 +1,5 @@
 # rtmonoaudio2midi
-Real-time note recognition in monophonic audio stream
+Real-time note recognition in monophonic audio stream by https://github.com/aniawsz refactored to python3
 
 Please install all the dependencies from `requirements.txt` file by executing:
 `pip install -r requirements.txt`
